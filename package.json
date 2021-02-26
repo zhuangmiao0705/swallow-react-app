@@ -1,0 +1,28 @@
+{
+  "name": "swallow-react-app",
+  "version": "1.0.4",
+  "main": "index.js",
+  "bin": {
+    "swallow-react-app": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "react",
+    "create-react-app"
+  ],
+  "author": "zm",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "cross-spawn": "^6.0.5",
+    "fs-extra": "^7.0.0",
+    "global": "^4.3.2",
+    "swallow-react-app": "^1.0.0"
+  }
+}
